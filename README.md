@@ -1,4 +1,4 @@
-# MLW MlwSms PHP SDK
+# MlwSms PHP SDK
 
 MlwSms PHP SDK 是一个 PHP 包，旨在简化与 MlwSms 短信服务的集成。此库封装了与 106 API 的交互，包括发送短信、查询状态等功能。
 
