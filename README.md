@@ -28,7 +28,7 @@ use MlwSms\Service\Application;
 // 创建配置实例
 $config = new Config('your_access_key', 'your_secret_key');
 // 创建客户端实例
-$client = new MlwSmsClient($config, $request);
+$client = new MlwSmsClient($config);
 // 获取应用服务
 $app = new Application($client);
 ```
